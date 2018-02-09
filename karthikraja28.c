@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void main()
+int main()
 {
 int a[10],i,n;
 clrscr();
@@ -14,5 +14,5 @@ for(i=0;i<=n;i++)
 {
 printf("%d\t%d\n",a[i],i);
 }
-getch();
+return 0;
 }
