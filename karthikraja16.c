@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<conio.h>
-int main()
+void main()
 {
     int low, high, i, flag;
     printf("Enter two numbers(intervals): ");
