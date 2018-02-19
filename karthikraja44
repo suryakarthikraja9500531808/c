@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-int main()
+ void main()
 {
 int i,g;
 printf("enter the value of i");
@@ -17,5 +17,5 @@ else
 {
 printf("no");
 }
-getch();
+return 0;
 }
