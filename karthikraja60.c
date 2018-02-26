@@ -7,7 +7,7 @@ printf(\nEnter the limit);
 scanf("%d%d"&n);
 printf("\nEnter the fabinacco series");
 scanf("%d"&a,&b);
-for(i=3;i>1;i++)
+for(i=5;i>1;i++)
 c=a+b;
 a=b;
 b=a;
