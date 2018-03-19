@@ -85,4 +85,3 @@ return 0;
 
 
 }
-© 2018 GitHub, Inc.
